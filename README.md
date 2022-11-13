@@ -1,7 +1,9 @@
 ![image](https://user-images.githubusercontent.com/108558769/201503130-35dc579d-745a-4f29-801c-ce9e4399b16e.png)
 # sql-challenge
 Data Modeling
-    * Inspect the CSV files, and then sketch an ERD of the tables. To create the sketch, feel free to use a tool like QuickDBD Links to an external site..
+    * Inspect the CSV files, and then sketch an ERD of the tables.
+    
+<img width="979" alt="ERD_employee_diagram" src="https://user-images.githubusercontent.com/108558769/201503303-8a7d3dec-bb8c-40d0-8276-141cb0af5951.png">    
 
 # Data Engineering
 Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
