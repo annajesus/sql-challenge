@@ -1,6 +1,8 @@
 ![image](https://user-images.githubusercontent.com/108558769/201503130-35dc579d-745a-4f29-801c-ce9e4399b16e.png)
-# sql-challenge
-Data Modeling
+
+It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files. For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform data modeling, data engineering, and data analysis, respectively.
+
+# Data Modeling
     * Inspect the CSV files, and then sketch an ERD of the tables.
     
 <img width="979" alt="ERD_employee_diagram" src="https://user-images.githubusercontent.com/108558769/201503303-8a7d3dec-bb8c-40d0-8276-141cb0af5951.png">    
