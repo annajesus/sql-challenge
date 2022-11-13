@@ -24,7 +24,7 @@ Use the provided information to create a table schema for each of the six CSV fi
 
 
     * List the first name, last name, and hire date for the employees who were hired in 1986.
-<img width="210" alt="2" src="https://user-images.githubusercontent.com/108558769/201505705-9bd321a1-cfce-4b5f-83c5-ed74c17c43a8.png">
+<img width="288" alt="2" src="https://user-images.githubusercontent.com/108558769/201506021-234d833e-4975-4e79-bfa2-f64a9082d294.png">
 
 
     * List the manager of each department along with their department number, department name, employee number, last name, and first name.
